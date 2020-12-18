@@ -64,7 +64,7 @@ img{
  background-repeat: no-repeat;
  background-size: cover;
 }
-.about-me, my-education, .my-experiences, .my-gallery, .my-family, .my-playlist, .favourite-videos{
+.about-me, my-education, .my-experiences, .my-gallery, .my-family, .my-playlist, .my-videos{
  position: relative;
  display: flex;
  justify-content: space-around;
