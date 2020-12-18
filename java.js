@@ -64,21 +64,5 @@ function updateVisitCount() {
     repeat();
 
 
-var vid = document.getElementById("myVideo");
-function disableAutoplay() { 
-  vid.autoplay = false;
-  vid.load();
-} 
-
-
-
-
-
-
-
-
-
-
-
 
 
